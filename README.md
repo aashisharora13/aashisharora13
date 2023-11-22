@@ -3,7 +3,7 @@
 <h2 align="center">
 I'm a Data Science and Business Intelligence Professional </br>👨‍💼!
 
-img align="right" alt="Coding" width="400" src=”https://media.licdn.com/dms/image/D4D12AQHQArTEfI2WgQ/article-cover_image-shrink_600_2000/0/1698648051197?e=2147483647&v=beta&t=zLaqJiXUThIwyKdfkaEVc5ZEPftlw4DxTH-Rho-f6y4”>
+<img align="right" alt="Coding" width="400" src=”https://media.licdn.com/dms/image/D4D12AQHQArTEfI2WgQ/article-cover_image-shrink_600_2000/0/1698648051197?e=2147483647&v=beta&t=zLaqJiXUThIwyKdfkaEVc5ZEPftlw4DxTH-Rho-f6y4”>
 
 </h2>
 
