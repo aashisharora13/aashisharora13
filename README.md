@@ -18,7 +18,7 @@ I am proficient in utilizing advanced analytics tools (e.g., Python, SQL) and BI
 - 📫 How to reach me **ashiaror1309@gmail.com**
 - 📄 Know about my experiences https://www.linkedin.com/in/ashiaror/
 - ⚡ Fun fact **Work Hard, Have Fun and Make History**
-- - 💬 If you have any project collaboration request, please do not hesitate to reach out to me!
+- 💬 If you have any project collaboration request, please do not hesitate to reach out to me!
 
 ## 🌱 I'm currently learning
 
