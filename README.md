@@ -4,7 +4,7 @@
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=tushar2704" alt="aashisharora13" /> </h3>
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 <h1 align="center">
-I'm a Data Science and Business Intelligence Professional 👨‍💼!</br>
+Data Science and Business Intelligence Professional 👨‍💼!</br>
 
 </h2>
 
