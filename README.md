@@ -92,6 +92,5 @@ I am proficient in utilizing advanced analytics tools (e.g., Python, SQL) and BI
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Laptop](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashisharora13&show_icons=true&locale=en&layout=compact" alt="aashisharora13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashisharora13&" alt="aashisharora13" /></p>
