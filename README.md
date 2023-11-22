@@ -11,8 +11,6 @@ I'm a Data Science and Business Intelligence Professional 👨‍💼!</br>
 Accomplished and results-oriented Data Science and Business Intelligence professional with extensive track record of utilizing data to drive strategic business decisions and uncover revenue growth opportunities, even in the face of ambiguity and complexity. My approach in a nutshell: I genuinely listen to customers, dive into their problems, come up with innovative solutions, and test them quickly. As an analytics leader, I’m known for my natural curiosity and willingness to tackle challenges, which has helped me consistently deliver significant results using big data.
 I am proficient in utilizing advanced analytics tools (e.g., Python, SQL) and BI tools (e.g., Tableau, Power BI, AWS QuickSight) to extract and interpret complex data sets, successfully translating intricate analyses into actionable business strategies and enhancing user experiences.From data gathering, cleaning and exploration, to building predictive models and creating data visualizations, I am dedicated to delivering high-quality solutions.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashisharora13" alt="aashisharora13" /></a> </p>
-
 - 🔭 I’m currently working at **Amazon**
 - 💬 Ask me about **Data Science, Business Intelligence, Product Analytics and Advanced Analytics**
 - 📫 How to reach me **ashiaror1309@gmail.com**
@@ -92,5 +90,6 @@ I am proficient in utilizing advanced analytics tools (e.g., Python, SQL) and BI
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Laptop](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashisharora13" alt="aashisharora13" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashisharora13&" alt="aashisharora13" /></p>
