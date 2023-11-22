@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashish Arora</h1>
 
-<!--
-**aashisharora13/aashisharora13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+I'm a Data Science and Business Intelligence Professional </br>👨‍💼!
 
-Here are some ideas to get you started:
+img align="right" alt="Coding" width="400" src=”https://media.licdn.com/dms/image/D4D12AQHQArTEfI2WgQ/article-cover_image-shrink_600_2000/0/1698648051197?e=2147483647&v=beta&t=zLaqJiXUThIwyKdfkaEVc5ZEPftlw4DxTH-Rho-f6y4”>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h2>
+
+Accomplished and results-oriented Data Science and Business Intelligence professional with extensive track record of utilizing data to drive strategic business decisions and uncover revenue growth opportunities, even in the face of ambiguity and complexity.
+
+My approach in a nutshell: I genuinely listen to customers, dive into their problems, come up with innovative solutions, and test them quickly. As an analytics leader, I’m known for my natural curiosity and willingness to tackle challenges, which has helped me consistently deliver significant results using big data.
+
+I am proficient in utilizing advanced analytics tools (e.g., Python, SQL) and BI tools (e.g., Tableau, Power BI, AWS QuickSight) to extract and interpret complex data sets, successfully translating intricate analyses into actionable business strategies and enhancing user experiences.
+
+From data gathering, cleaning and exploration, to building predictive models and creating data visualizations, I am dedicated to delivering high-quality solutions.
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashisharora13" alt="aashisharora13" /></a> </p>
+
+- 🔭 I’m currently working at **Amazon**
+- 💬 Ask me about **Data Science, Business Intelligence, Product Analytics and Advanced Analytics**
+- 📫 How to reach me **ashiaror1309@gmail.com**
+- 📄 Know about my experiences https://www.linkedin.com/in/ashiaror/
+- ⚡ Fun fact **Work Hard, Have Fun and Make History**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-arora/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-arora/" height="30" width="40" /></a>
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashisharora13&show_icons=true&locale=en&layout=compact" alt="aashisharora13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashisharora13&" alt="aashisharora13" /></p>
