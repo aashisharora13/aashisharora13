@@ -88,7 +88,7 @@ I am proficient in utilizing advanced analytics tools (e.g., Python, SQL) and BI
 ![Heroko](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![GIT Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Laptop](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-EE4C2?style=for-the-badge&logo=GoogleCloud&logoColor=white)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashisharora13" alt="aashisharora13" /></a> </p>
 
