@@ -19,7 +19,7 @@ I am proficient in utilizing advanced analytics tools (e.g., Python, SQL) and BI
 - 📄 Know about my experiences https://www.linkedin.com/in/ashiaror/
 - ⚡ Fun fact **Work Hard, Have Fun and Make History**
 - - 💬 If you have any project collaboration request, please do not hesitate to reach out to me!
-- ## <a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 ## 🌱 I'm currently learning
 
 - Generative AI
