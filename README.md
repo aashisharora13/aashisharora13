@@ -4,7 +4,7 @@
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=tushar2704" alt="aashisharora13" /> </h3>
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 <h1 align="center">
-I'm a Data Science and Business Intelligence Professional </br>👨‍💼!
+I'm a Data Science and Business Intelligence Professional 👨‍💼!</br>
 
 </h2>
 
@@ -23,6 +23,15 @@ From data gathering, cleaning and exploration, to building predictive models and
 - 📫 How to reach me **ashiaror1309@gmail.com**
 - 📄 Know about my experiences https://www.linkedin.com/in/ashiaror/
 - ⚡ Fun fact **Work Hard, Have Fun and Make History**
+- - 💬 If you have any project collaboration request, please do not hesitate to reach out to me!
+- ## <a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+## 🌱 I'm currently learning
+
+- Generative AI
+- A.I. Product Management
+- Cloud Computing (AWS, GCP)
+- Strategic Planning for Data
+- Advanced AI for complete automation  
 
 <h3 align="left">Connect with me:</h3>
 
