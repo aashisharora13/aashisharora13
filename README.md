@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashish Arora</h1>
 
 <h2 align="center">
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=tushar2704" alt="aashisharora13" /> </h3>
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<h1 align="center">
 I'm a Data Science and Business Intelligence Professional </br>👨‍💼!
-
-<img align="right" alt="Coding" width="400" src=”https://media.licdn.com/dms/image/D4D12AQHQArTEfI2WgQ/article-cover_image-shrink_600_2000/0/1698648051197?e=2147483647&v=beta&t=zLaqJiXUThIwyKdfkaEVc5ZEPftlw4DxTH-Rho-f6y4”>
 
 </h2>
 
